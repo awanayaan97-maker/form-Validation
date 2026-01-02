@@ -33,11 +33,10 @@ submitButton.addEventListener("click", function(){
 
      localStorage.setItem(inputData.placeholder, inputData.value);
 
-     window.location.href = "login.html";
-
     })
     
 
+    window.location.href = "login.html";
 
 
 })

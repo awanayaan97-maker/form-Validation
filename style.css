@@ -45,6 +45,7 @@ h1{
 button{
     padding: 12px 16px;
     margin-top: 40px;
+    margin-bottom: 20px;
     border-radius: 10px;
     border: 1px solid rgb(201, 20, 201);
 }
@@ -63,7 +64,7 @@ button:hover{
         width: 90%;
     }
     .formbg{
-        height: 95%;
+        height: auto;
         width: 90%;
     }
 }

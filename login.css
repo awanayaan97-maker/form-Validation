@@ -64,3 +64,9 @@ button:hover{
         margin-left: 15px;
     }
 }
+
+@media (max-width:600px) {
+    .formbg{
+        width: 90%;
+    }
+}
